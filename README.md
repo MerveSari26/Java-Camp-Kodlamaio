@@ -1,1 +1,1 @@
-# Java-E-itimi-Kodlamaio---devleri
+# Java-Egitimi-Kodlamaio-Odevleri
